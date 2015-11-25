@@ -1,0 +1,2 @@
+# ntalk
+studying node
